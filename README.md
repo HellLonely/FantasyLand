@@ -1,4 +1,4 @@
-# FantasyLand
+# FantasyLand 🍄
 
 Fecha de publicación del proyecto en GitHub.
 
@@ -8,7 +8,7 @@ Publicación **8/10/2022**
 
 Servidor de aventuras en un mundo completamente personalizado y creado de manera manual en [**WorldPainter**](https://www.worldpainter.net/)
 
-## Software
+## Software 🖥️
 
 El proyecto usa varios programas para funcionar.
 
@@ -17,9 +17,9 @@ El proyecto usa varios programas para funcionar.
 | WorldPainter     |   Generador de mapas interactivos para Minecraft.    |        3|
 | Java     |    La maquina donde funciona WorldPainter     |          17 LTS |
 | Forge | Utilidad para añadir mods a Minecraft | 1.16.5 - 36.2.39 |
-| MCreator | Posibilidad de crear mods de Minecraft Java Edition | null
+| MCreator | Posibilidad de crear mods de Minecraft Java Edition | 2022.3
 
-## Versiones
+## Versiones 💾
 
 * FantasyLand 0.1
     *  Iniciación del proyecto, se indican las bases sobre los planes y se inicia la estructura de ficheros en el repositorio.
