@@ -4,7 +4,7 @@ Para la versión 0.1 se han añadido el sistema de **gestión de archivos básic
 
 La gestión de archivos se basa en crear los directorios donde se almacenarán los ficheros.
 
----
+
 
 ## Directorios
 
