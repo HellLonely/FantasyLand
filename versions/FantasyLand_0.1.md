@@ -28,3 +28,7 @@ La gestión de archivos se basa en crear los directorios donde se almacenarán l
 <br/>
 
 ![schema](../src/schema1.png)
+
+
+
+Actualizado: 08/10/2022
