@@ -23,7 +23,7 @@ El proyecto usa varios programas para funcionar.
 
 Para saber todo lo necesario sobre el mundo y su viva interación accede a la documentación aquí presente.
 
-## [🔗 Documentación](documentation/main.md)
+### [🔗 Documentación](documentation/main.md)
 
 *Solo disponible en Español*
 
@@ -32,5 +32,5 @@ Para saber todo lo necesario sobre el mundo y su viva interación accede a la do
 * FantasyLand 0.1
     *  Iniciación del proyecto, se indican las bases sobre los planes y se inicia la estructura de ficheros en el repositorio.
 
-## [🔗 Versión Actual 0.1](versions/FantasyLand_0.1.md)
+### [🔗 Versión Actual 0.1](versions/FantasyLand_0.1.md)
 
