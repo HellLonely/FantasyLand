@@ -6,7 +6,7 @@ Publicación **8/10/2022**
 
 ### Descripción:
 
-Servidor de aventuras en un mundo completamente personalizado y creado de manera natural en **WorldPainter**
+Servidor de aventuras en un mundo completamente personalizado y creado de manera manual en **WorldPainter**
 
 ## Versiones
 
