@@ -8,7 +8,7 @@ La gestión de archivos se basa en crear los directorios donde se almacenarán l
 
 ## Directórios
 
-📁  **proyect versions**
+📁  **versions**
 
 * Se guarda un registro con información de las versiones del proyecto y que funcionalidades se han implementado
 
@@ -16,8 +16,15 @@ La gestión de archivos se basa en crear los directorios donde se almacenarán l
 
 * Aquí se almacenan todas las imagenes y recursos que se utilizaran en los archivos de **.md**
 
+📁  **schema**
+
+* Guardado todos los esquemas del proyecto (*esta insertado en ../src*)
+
 📁  **img**
 
 *  Almacen de imagenes del servidor
+
+## Esquema
+<br/>
 
 ![schema](../src/schema1.png)
