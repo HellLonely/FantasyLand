@@ -24,10 +24,9 @@ La gestión de archivos se basa en crear los directorios donde se almacenarán l
 
 *  Almacen de imagenes del servidor
 
-## Esquema
-<br/>
+📁  **documentation**
 
-![schema](../src/schema1.png)
+*  Almacen de toda la información sobre las funcionalidades
 
 
 
