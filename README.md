@@ -19,6 +19,14 @@ El proyecto usa varios programas para funcionar.
 | Forge | Utilidad para añadir mods a Minecraft | 1.16.5 - 36.2.39 |
 | MCreator | Posibilidad de crear mods de Minecraft Java Edition | 2022.3
 
+## Información
+
+Para saber todo lo necesario sobre el mundo y su viva interación accede a la documentación aquí presente.
+
+## [🔗 Documentación](documentation/main.md)
+
+*Solo disponible en Español*
+
 ## Versiones 💾
 
 * FantasyLand 0.1
