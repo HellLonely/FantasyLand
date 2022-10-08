@@ -16,7 +16,8 @@ El proyecto usa varios programas para funcionar.
 |:------------|:-------------:|-------------:|
 | WorldPainter     |   Generador de mapas interactivos para Minecraft.    |        3|
 | Java     |    La maquina donde funciona WorldPainter     |          17 LTS |
-| Forge | Utilidad para añadir mods a Minecraft | 1.16.5 - 36.2.39 
+| Forge | Utilidad para añadir mods a Minecraft | 1.16.5 - 36.2.39 |
+| MCreator | Foftware de código abierto utilizado para hacer mods de Minecraft Java Edition | null
 
 ## Versiones
 
