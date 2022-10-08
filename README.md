@@ -1,4 +1,4 @@
-# FantasyLand 0.1
+# FantasyLand
 
 Fecha de publicación del proyecto en GitHub.
 
