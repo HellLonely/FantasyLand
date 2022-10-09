@@ -7,7 +7,7 @@ Para dar ambiente al mundo, vamos a añadir mods. Todos los mods tienen que ser 
 Índice :
 
 * [Alex’s Mobs Mod](#alexs-mobs-mod)
-* [Decorative Blocks Mod]()
+* [Decorative Blocks Mod](#decorative-blocks-mod)
 * [Farmer’s Delight Mod](#farmers-delight-mod)
 * [Iron Chests Mod](#iron-chests-mod)
 * [OfflineSkins Mod](#offlineskins-mod)
