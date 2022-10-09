@@ -33,7 +33,7 @@ El mundo cuenta con un conjunto de mods que ayudan a dar ambiente, decoración, 
 
 Aquí esta la documentación explicando los mods.
 
-### [🔗 Mods](documentation/main.md)
+### [🔗 Mods](documentation/mods.md)
 
 ## Versiones 💾
 
