@@ -27,6 +27,14 @@ Para saber todo lo necesario sobre el mundo y su viva interación accede a la do
 
 *Solo disponible en Español*
 
+## Mods
+
+El mundo cuenta con un conjunto de mods que ayudan a dar ambiente, decoración, rol y diversidad a FantasyLand.
+
+Aquí esta la documentación explicando los mods.
+
+### [🔗 Mods](documentation/main.md)
+
 ## Versiones 💾
 
 * FantasyLand 0.1
