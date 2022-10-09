@@ -26,7 +26,7 @@ La gestión de archivos se basa en crear los directorios donde se almacenarán l
 
 📁  **documentation**
 
-*  Almacen de toda la información sobre las funcionalidades
+*  Almacen de toda la información sobre las funcionalidades, con un índice
 
 
 
