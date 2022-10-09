@@ -4,6 +4,8 @@ Fecha de publicación del proyecto en GitHub.
 
 Publicación **8/10/2022**
 
+* [Software](#versiones-💾)
+
 ### Descripción:
 
 Servidor de aventuras en un mundo completamente personalizado y creado de manera manual en [**WorldPainter**](https://www.worldpainter.net/)
