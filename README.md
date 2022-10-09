@@ -4,7 +4,6 @@ Fecha de publicación del proyecto en GitHub.
 
 Publicación **8/10/2022**
 
-* [Software](#versiones-💾)
 
 ### Descripción:
 
