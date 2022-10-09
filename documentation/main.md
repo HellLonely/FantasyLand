@@ -1,3 +1,3 @@
-# Documentación 📖
+# Documentación 📜
 
-Se añadira documentacion cuando se desarrolle el mundo 😊
+Se añadira documentación cuando se desarrolle el mundo 😊
