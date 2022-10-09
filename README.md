@@ -38,8 +38,5 @@ Aquí esta la documentación explicando los mods.
 
 ## Versiones 💾
 
-* FantasyLand 0.1
-    *  Iniciación del proyecto, se indican las bases sobre los planes y se inicia la estructura de ficheros en el repositorio.
-
-### [🔗 Versión Actual 0.1](versions/FantasyLand_0.1.md)
+### [🔗 Versión Actual 0.2](versions/FantasyLand_0.2.md)
 
