@@ -42,7 +42,8 @@ Aquí se representa como va avanzando el mundo en torno a su generación y el es
 ### Progreso: ■■■■□□□□□□ 40%
 
 
->Se a terminado de crear el mundo base con los biomas en WorldPainter
+
++ Se a terminado de crear el mundo base con los biomas en WorldPainter
 
 
 ## Versiones 💾
