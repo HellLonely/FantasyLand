@@ -33,10 +33,19 @@ Para saber todo lo necesario sobre el mundo y su viva interación accede a la do
 El mundo cuenta con un conjunto de mods que ayudan a dar ambiente, decoración, rol y diversidad a FantasyLand.
 
 Aquí esta la documentación explicando los mods.
-
 ### [🔗 Mods](documentation/mods.md)
+
+## Mundo
+
+Aquí se representa como va avanzando el mundo en torno a su generación y el estado de su desarrollo.
+
+### Progreso: ■■■■□□□□□□ 40%
+
+
+>Se a terminado de crear el mundo base con los biomas en WorldPainter
+
 
 ## Versiones 💾
 
-### [🔗 Versión Actual 0.2](versions/FantasyLand_0.2.md)
+### [🔗 Versión Actual 0.3](versions/FantasyLand_0.3.md)
 
