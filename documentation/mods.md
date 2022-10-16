@@ -10,9 +10,12 @@ Para dar ambiente al mundo, vamos a añadir mods. Todos los mods tienen que ser 
 * [Antique Atlas Mod](#antique-atlas-mod)
 * [Alex’s Mobs Mod](#alexs-mobs-mod)
 * [Carry On Mod](#carry-on-mod)
+* [Custom NPC](#custom-npc)
+* [Decocraft](#decocraft)
 * [Decorative Blocks Mod](#decorative-blocks-mod)
 * [Drink Beer Mod](#drink-beer-mod)
 * [Everlasting Abilities Mod](#everlasting-abilities-mod)
+* [Fantasy's Furniture](#fantasys-furniture)
 * [Farmer’s Delight Mod](#farmers-delight-mod)
 * [Inventory HUD+ Mod](#inventory-hud-mod)
 * [Iron Chests Mod](#iron-chests-mod)
@@ -41,6 +44,11 @@ Añade 23 nuevos Mobs a Minecraft. Estos animales se dividen en dos categorías:
 ### Carry On Mod
 Carry On es un mod simple que mejora la interacción del juego al permitir que los jugadores recojan, transporten y coloquen entidades de mosaico de bloque único (como cofres, hornos, droppers, spawners y tus máquinas favoritas de otros Tech Mods) usando solo sus manos vacías.
 
+### Custom NPC
+Nos permite crear NPC y dar mas vida al mundo con personajes completamente personalizables.
+
+### Decocraft
+La mejor manera de disfrutar un mundo es con una muy buena decoración y en esto nos ayuda este mod.
 
 ### Decorative Blocks Mod
 Decorative Blocks Mod agrega varios bloques decorativos de madera y roca. Estos bloques son muy sencillos, pero quedarán muy bien en nuestro hogar. También agrega objetos con iluminación para complementarse y encajar con ellos.
@@ -83,6 +91,9 @@ Everlasting Abilities este mod te permite tener capacidades persistentes, que pe
 | Resplandeciente   |    Entidades de la zona empiezan a brillar  |
 | Levitación   |    Las entidades en la zona de salida levitando  |
 | Unluck   |    Entidades de la zona tienen una menor probabilidad de buen botín  |
+
+### Fantasy's Furniture
+Un mod que nos añade decoracion relacionada con el mundo de la fantasia.
 
 ### Farmer’s Delight Mod
 Farmer’s Delight Mod se enfoca en traernos contenido relacionado con la comida, en este mod, podemos encontrar nuevos alimentos, bebidas, cultivos, herramientas de cocción, bloques, entre otros.
