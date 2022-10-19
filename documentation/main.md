@@ -5,3 +5,6 @@ Aquí se muestra toda la documentación que existe sobre el proyecto, estructura
 --------
 
 ## [ Mods ](mods.md)
+
+## [ Biomas ](biomes.md)
+
