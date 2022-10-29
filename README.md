@@ -47,4 +47,4 @@ El siguiente paso es crear los pueblos y la decoración principal.
 
 ## Versiones 💾
 
-### [🔗 Versión Actual 0.3](versions/FantasyLand_0.3.md)
+### [🔗 Versión Actual 0.4](versions/FantasyLand_0.4.md)
