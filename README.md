@@ -39,7 +39,7 @@ Aquí esta la documentación explicando los mods.
 
 Aquí se representa como va avanzando el mundo en torno a su generación y el estado de su desarrollo.
 
-### Progreso: ■■■■□□□□□□ 40%
+### Progreso: ■■□□□□□□□□ 20%
 
 - Se a terminado de crear el mundo base con los biomas en WorldPainter
 
