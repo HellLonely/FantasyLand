@@ -9,7 +9,8 @@ Para la primera lista nos centraremos en la creación del primer pueblo (_Nombre
 - [X] Asignar la ubicación del pueblo.
 - [X] Dibujar trazado básico de la ubicación de las casas.
 - [X] Hacer el trazado de las aceras.
-- [ ] Construir la base de las casas.
-- [ ] Decorar el interior de las casas.
-- [ ] Asignar ofícios o destino a las casas.
+- [X] Construir la base de las casas.
+- [X] Decorar el interior de las casas.
+- [X] Asignar ofícios o destino a las casas.
 - [ ] Decorar el pueblo.
+- [ ] Elección del nombre.
