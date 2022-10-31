@@ -12,5 +12,5 @@ Para la primera lista nos centraremos en la creación del primer pueblo (_Nombre
 - [X] Construir la base de las casas.
 - [X] Decorar el interior de las casas.
 - [X] Asignar ofícios o destino a las casas.
-- [ ] Decorar el pueblo.
+- [X] Decorar el pueblo.
 - [ ] Elección del nombre.
