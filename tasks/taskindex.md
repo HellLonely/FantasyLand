@@ -6,4 +6,5 @@ Cada lista se centra en un aspecto específico del mundo y se ira desarrollando 
 
 ---
 
-## [Lista 1º Pueblo](task1.md)
+### [Lista 1º Pueblo](task1.md)
+### [Lista 2º Pueblo](task2.md)
