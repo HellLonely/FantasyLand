@@ -22,3 +22,12 @@ El **Flame Daesyn** es una moneda extraña, que sirve para comprar objetos espec
 ![image](../img/flamedaesyn.png)
 
 ![image](../img/daesyn4.png)
+
+## Bundle Daesyn
+
+Esta es una pequeña mochila con **14 slots**, que sirve unicamente para guarda los Daesyns, tiene un capacidad maxima de **896 Daesyns**.
+
+![image](../img/bundle.png)
+![image](../img/bundle2.png)
+
+
